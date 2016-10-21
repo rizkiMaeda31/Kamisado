@@ -1,0 +1,27 @@
+c:\users\user\documents\visual studio 2012\Projects\Kamisado\Kamisado\bin\Debug\Kamisado.exe.config
+c:\users\user\documents\visual studio 2012\Projects\Kamisado\Kamisado\bin\Debug\Kamisado.exe
+c:\users\user\documents\visual studio 2012\Projects\Kamisado\Kamisado\bin\Debug\Kamisado.pdb
+c:\users\user\documents\visual studio 2012\Projects\Kamisado\Kamisado\obj\Debug\Kamisado.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2012\Projects\Kamisado\Kamisado\obj\Debug\Kamisado.Properties.Resources.resources
+c:\users\user\documents\visual studio 2012\Projects\Kamisado\Kamisado\obj\Debug\Kamisado.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2012\Projects\Kamisado\Kamisado\obj\Debug\Kamisado.exe
+c:\users\user\documents\visual studio 2012\Projects\Kamisado\Kamisado\obj\Debug\Kamisado.pdb
+C:\Users\User\Documents\Visual Studio 2012\Projects\Kamisado\Kamisado\obj\Debug\Kamisado.Form1.resources
+C:\Users\rizky\Desktop\Kamisado\Kamisado\bin\Debug\Kamisado.exe.config
+C:\Users\rizky\Desktop\Kamisado\Kamisado\obj\Debug\Kamisado.exe
+C:\Users\rizky\Desktop\Kamisado\Kamisado\obj\Debug\Kamisado.pdb
+C:\Users\rizky\Desktop\Kamisado\Kamisado\obj\Debug\Kamisado.csprojResolveAssemblyReference.cache
+C:\Users\rizky\Desktop\Kamisado\Kamisado\obj\Debug\Kamisado.Form1.resources
+C:\Users\rizky\Desktop\Kamisado\Kamisado\obj\Debug\Kamisado.Properties.Resources.resources
+C:\Users\rizky\Desktop\Kamisado\Kamisado\obj\Debug\Kamisado.csproj.GenerateResource.Cache
+C:\Users\rizky\Desktop\Kamisado\Kamisado\bin\Debug\Kamisado.exe
+C:\Users\rizky\Desktop\Kamisado\Kamisado\bin\Debug\Kamisado.pdb
+C:\Users\User\Desktop\Kamisado\Kamisado\bin\Debug\Kamisado.exe.config
+C:\Users\User\Desktop\Kamisado\Kamisado\obj\Debug\Kamisado.exe
+C:\Users\User\Desktop\Kamisado\Kamisado\obj\Debug\Kamisado.pdb
+C:\Users\User\Desktop\Kamisado\Kamisado\bin\Debug\Kamisado.exe
+C:\Users\User\Desktop\Kamisado\Kamisado\bin\Debug\Kamisado.pdb
+C:\Users\User\Desktop\Kamisado\Kamisado\obj\Debug\Kamisado.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Kamisado\Kamisado\obj\Debug\Kamisado.Form1.resources
+C:\Users\User\Desktop\Kamisado\Kamisado\obj\Debug\Kamisado.Properties.Resources.resources
+C:\Users\User\Desktop\Kamisado\Kamisado\obj\Debug\Kamisado.csproj.GenerateResource.Cache
